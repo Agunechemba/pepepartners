@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agu85.
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning c, c++ and python.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning php, angular js, javascript and python.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me: +2349066115252
 
