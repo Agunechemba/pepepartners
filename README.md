@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @agu85.
-- 👀 I’m interested in IT administration
-- 🌱 I’m currently learning php, angular js, javascript, bootstrap, SQL and python.
+- 👋 Hi, I’m Ekene.
+- 👀 I’m a Technology Training Specialist.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me: +2349066115252
 
